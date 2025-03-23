@@ -2,11 +2,12 @@
 This is a Team Project made on AI Hack Days Hackathon organized by Swecha and C3 club,snist.
 Team Name: Strawhats
 Team Members: 
-    https://github.com/pradeepReddy0099
+   https://github.com/pradeepReddy0099
     
-    https://github.com/nvidax-sailalith
-    
-    https://github.com/rishik777
+   https://github.com/nvidax-sailalith
+
+
+   https://github.com/rishik777
     
     
   
