@@ -1,5 +1,14 @@
 # Story Generator
-Key Features:
+This is a Team Project made on AI Hack Days Hackathon organized by Swecha and C3 club,snist.
+Team Name: Strawhats
+Team Members: 
+    https://github.com/pradeepReddy0099
+    https://github.com/nvidax-sailalith
+    https://github.com/rishik777
+    
+    
+  
+# Key Features:
 
 Theme Input: Users are prompted to "Enter a theme for your story" via a text input field, allowing for personalized content creation.
 Suggested Themes: A selection of pre-populated themes like "Adventure In Space," "Love," "Magic Forest," and more are provided as quick-start options, offering inspiration and variety.
